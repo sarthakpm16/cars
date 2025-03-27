@@ -1,16 +1,16 @@
 package cars;
 
 public class Main {
-    
     public static void main(String[] args) {
        Car c = new Tesla();
        c.beep();
 
        Car m = new Mustang();
-         m.beep();
+       m.beep();
 
-         Car a = new Camaro();
-            a.beep();
+       Car a = new Camaro();
+       a.beep();
+
     }
 
 }
