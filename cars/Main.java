@@ -5,8 +5,12 @@ public class Main {
        Car c = new Tesla();
        c.beep();
 
+       Car m = new Mustang();
+       m.beep();
+
        Car a = new Camaro();
-        a.beep();
+       a.beep();
+
     }
 
 }
