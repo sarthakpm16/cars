@@ -11,6 +11,9 @@ public class Main {
        Car a = new Camaro();
        a.beep();
 
+       Car atwo = new Camaro();
+         atwo.beep();
+
     }
 
 }
